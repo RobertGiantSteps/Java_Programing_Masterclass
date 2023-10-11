@@ -1,0 +1,17 @@
+
+7
+java:S1220""Move this file to a named package.8â¾­£±1
+[
+java:S1854"9Remove this useless assignment to local variable "bonus".(‰É×¼úÿÿÿÿ8ë¾­£±1
+_
+java:S1854"BRemove this useless assignment to local variable "levelCompleted".(Òüôà8ë¾­£±1
+O
+java:S1481"-Remove this unused "gameOver" local variable.(ÍžÊþúÿÿÿÿ8ì¾­£±1
+P
+java:S1481"3Remove this unused "levelCompleted" local variable.(Òüôà8ì¾­£±1
+L
+java:S1481"*Remove this unused "bonus" local variable.(‰É×¼úÿÿÿÿ8ì¾­£±1
+L	java:S106
+"+Replace this use of System.out by a logger.(öóêžùÿÿÿÿ8í¾­£±1
+L	java:S106"+Replace this use of System.out by a logger.(µã¾ãýÿÿÿÿ8í¾­£±1
+F	java:S106"+Replace this use of System.out by a logger.(­Ÿƒ~8î¾­£±1
