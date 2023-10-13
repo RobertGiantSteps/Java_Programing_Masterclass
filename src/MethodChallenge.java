@@ -1,32 +1,38 @@
 public class MethodChallenge {
     public static void main(String[] args) {
 
-        String playerName = "Luis";
-        int playerScore = 90;
-        int playerPosition =  calculateHighScorePosition(playerScore);
-        displayHighScorePosition(playerName,playerPosition);
+        int highScorePosition = calculateHighScorePosition(1500);
+        displayHighScorePosition("Tim", highScorePosition);
 
+        highScorePosition = calculateHighScorePosition(1000);
+        displayHighScorePosition("Bob", highScorePosition);
 
+        highScorePosition = calculateHighScorePosition(500);
+        displayHighScorePosition("Percy", highScorePosition);
 
+        highScorePosition = calculateHighScorePosition(100);
+        displayHighScorePosition("Gilbert", highScorePosition);
+
+        highScorePosition = calculateHighScorePosition(25);
+        displayHighScorePosition("James", highScorePosition);
     }
     public static void displayHighScorePosition(String playerName, int playerPosition) {
 
         System.out.println(playerName + " managed to get into position " + playerPosition + "º on the high score list");
 
     }
-     public static int calculateHighScorePosition(int playerScore) {
-        int result = 4;
+
+    public static int calculateHighScorePosition(int playerScore) {
+
+        int position = 4;
         if (playerScore >= 1000) {
-            result = 1;
-        }
-        if((playerScore >= 500) && (playerScore < 1000)) {
-            result = 2;
-        }
-        else if ((playerScore >= 100) && (playerScore < 500)) {
-            result = 3;
+            position = 1;
+        } else if (playerScore >= 500) {
+            position = 2;
+        } else if (playerScore >= 100) {
+            position = 3;
         }
 
-        return result;
-
-     }
+        return position;
+    }
 }
