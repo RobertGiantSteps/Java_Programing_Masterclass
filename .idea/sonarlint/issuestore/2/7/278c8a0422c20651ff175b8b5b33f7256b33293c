@@ -1,0 +1,30 @@
+
+^
+java:S49732"<Strings and Boxed types should be compared using "equals()".(á³™—ıÿÿÿÿ8‘Ñßœ±1
+7
+java:S1220""Move this file to a named package.8‘Ñßœ±1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(ŞĞÊçøÿÿÿÿ8ªÒßœ±1
+e
+java:S2583)"CChange this condition so that it does not always evaluate to "true"(Œ‡Ëÿÿÿÿÿ8«Òßœ±1
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Êä±¼şÿÿÿÿ8«Òßœ±1
+L	java:S106"+Replace this use of System.out by a logger.(”‡¼Äúÿÿÿÿ8µÒßœ±1
+L	java:S106
+"+Replace this use of System.out by a logger.(¥õ¬Âşÿÿÿÿ8¶Òßœ±1
+I
+java:S1125"'Remove the unnecessary boolean literal.(ŞĞÊçøÿÿÿÿ8¸Òßœ±1
+G	java:S106"+Replace this use of System.out by a logger.(øƒš8¸Òßœ±1
+F	java:S106"+Replace this use of System.out by a logger.(ø¢ñh8¹Òßœ±1
+L	java:S106"+Replace this use of System.out by a logger.(€¨¼îÿÿÿÿÿ8»Òßœ±1
+G	java:S106"+Replace this use of System.out by a logger.(”¸³â8¼Òßœ±1
+G	java:S106 "+Replace this use of System.out by a logger.( ˜œÖ8½Òßœ±1
+F	java:S106%"+Replace this use of System.out by a logger.(™¢8¾Òßœ±1
+L	java:S106*"+Replace this use of System.out by a logger.(Üâ®„ıÿÿÿÿ8ÀÒßœ±1
+L	java:S106-"+Replace this use of System.out by a logger.(«×Ô‰şÿÿÿÿ8ÃÒßœ±1
+X	java:S1250"<This block of commented-out lines of code should be removed.(©×Ø™8ÄÒßœ±1
+J
+java:S11252"(Remove the unnecessary boolean literals.(á³™—ıÿÿÿÿ8ÅÒßœ±1
+L	java:S1064"+Replace this use of System.out by a logger.(Ì‡¿Áÿÿÿÿÿ8ÆÒßœ±1
+L	java:S1067"+Replace this use of System.out by a logger.(ÓÑˆÇùÿÿÿÿ8ÇÒßœ±1
+G	java:S106;"+Replace this use of System.out by a logger.(õšÌú8ÈÒßœ±1
