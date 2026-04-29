@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeywordsCodeBlock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeywordsExpressions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StatementsWhiteSpaceIndent" vcs="Git" />
+  </component>
+</project>

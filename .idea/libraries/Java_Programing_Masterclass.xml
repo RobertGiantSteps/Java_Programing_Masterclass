@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Java_Programing_Masterclass">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/FirstMethodsChallenge/src" />
+      <root url="file://$PROJECT_DIR$/HelloWorld/src" />
+      <root url="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/src" />
+      <root url="file://$PROJECT_DIR$/KeywordsAndExpressions/src" />
+      <root url="file://$PROJECT_DIR$/KeywordsCodeBlock/src" />
+      <root url="file://$PROJECT_DIR$/KeywordsExpressions/src" />
+      <root url="file://$PROJECT_DIR$/SampleCodingExercise/src" />
+      <root url="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/src" />
+      <root url="file://$PROJECT_DIR$/StatementsWhiteSpaceIndent/src" />
+    </SOURCES>
+  </library>
+</component>

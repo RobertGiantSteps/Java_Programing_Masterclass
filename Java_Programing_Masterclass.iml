@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production/Java_Programing_Masterclass" />
+    <output-test url="file://$MODULE_DIR$/out/test/Java_Programing_Masterclass" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/KeywordsCodeBlock/src">
+      <sourceFolder url="file://$MODULE_DIR$/KeywordsCodeBlock/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="278ea3d6-397c-4f79-8d7d-52272a68a0bb" />
+  </component>
+</module>
